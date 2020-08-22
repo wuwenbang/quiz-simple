@@ -30,6 +30,24 @@ Demo 代码可以新建一个或多个文件（不限），
 }
 ```
 
+```css
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.container>.child {
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.container>div:nth-child(1) {
+    flex-grow: 1;
+}
+```
+
 ## Q2
 
 你用过哪些 CSS 的方法论和工具  
@@ -45,3 +63,7 @@ Demo 代码可以新建一个或多个文件（不限），
 > ```
 
 答：
+> 1. 命名规范化
+> 2. React styled-component
+> 3. Vue CSS scope属性
+> 4. Sass Less 等CSS预编译器 给CSS添加编程语言特性

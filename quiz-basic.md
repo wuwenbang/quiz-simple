@@ -9,35 +9,35 @@
 
 请在下面的表格中作答：
 
-| 名词           | 是什么               |
-| :------------- | :------------------- |
-| Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
-| nvm            | 是 ……                |
-| nrm            | 是 ……                |
-| yarn           | 是 ……                |
-| React          | 是 ……                |
-| Vue            | 是 ……                |
-| Flux           | 是 ……                |
-| Mobx           | 是 ……                |
-| MVVM           | 是 ……                |
-| TDD            | 是 ……                |
-| Jest/Mocha     | 是 ……                |
-| node_modules   | 是 ……                |
-| package.json   | 是 ……                |
-| ECMAScript     | 是 ……                |
-| Electron       | 是 ……                |
-| Babel          | 是 ……                |
-| Webpack        | 是 ……                |
-| SSR            | 是 ……                |
-| BFF            | 是 ……                |
-| Serverless     | 是 ……                |
-| PWA            | 是 ……                |
-| V8             | 是 ……                |
-| libuv          | 是 ……                |
-| Stack Overflow | 是 ……                |
-| Deno           | 是 ……                |
+| 名词           | 是什么                            |
+| :------------- | :-------------------------------- |
+| Node.js        | 是 JS 的一个 runtime              |
+| npm            | 是 nodejs平台的包管理工具         |
+| npx            | 是 一个在npm中的安装工具          |
+| nvm            | 是 nodejs的版本管理工具           |
+| nrm            | 是 npm的镜像源管理工具            |
+| yarn           | 是 npm升级版                      |
+| React          | 是 一个用于构建界面的JS框架       |
+| Vue            | 是 一个用于构建界面的渐进式JS框架 |
+| Flux           | 是 一个 React 数据流的框架        |
+| Mobx           | 是 一个 React 状态管理框架        |
+| MVVM           | 是 将数据和视图分离的编程思想     |
+| TDD            | 是 测试驱动开发                   |
+| Jest/Mocha     | 是 测试框架                       |
+| node_modules   | 是 导入的node.js模块              |
+| package.json   | 是 node_modules 的配置文件        |
+| ECMAScript     | 是 JS标准                         |
+| Electron       | 是 用JS开发桌面应用的框架         |
+| Babel          | 是 将JS转译为兼容版本的工具       |
+| Webpack        | 是 打包工具                       |
+| SSR            | 是 服务端渲染                     |
+| BFF            | 是 服务于前端的后端               |
+| Serverless     | 是 无服务器架构                   |
+| PWA            | 是 渐进式 Web 应用                |
+| V8             | 是 JS引擎                         |
+| libuv          | 是 跨平台异步IO库                 |
+| Stack Overflow | 是 程序员版知乎                   |
+| Deno           | 是 node.js升级版                  |
 
 ## Q2
 
@@ -50,3 +50,12 @@
 > - 掘金、知乎
 
 答：
+1. 掘金
+2. 简书
+3. 知乎
+4. 思否
+5. CSDN
+6. gitee
+7. bilibili
+8. CNode社区
+9. Stack Overflow
